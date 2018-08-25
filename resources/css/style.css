@@ -28,8 +28,11 @@ div,
    color: white;
  }
 
-.links {
+
+a,
+ .links  {
   font-size: 18px;
+  color: white;
 }
 
 .text {
