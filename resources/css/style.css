@@ -18,10 +18,15 @@ h2 {
   font-weight: bold;
 }
 
-h3{
+h3 {
   font-size: 23px;
   font-weight: bold;
 }
+
+div,
+ .NY {
+   color: white;
+ }
 
 .links {
   font-size: 18px;
@@ -29,4 +34,18 @@ h3{
 
 .text {
   font-size: 14px;
+}
+
+.NY {
+  font-size: 23px;
+  font-weight: bold;
+  background-image: url("https://raw.githubusercontent.com/AJ-2018/Broadway/master/resources/images/the-flatiron-building.png");
+  background-size: cover;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
